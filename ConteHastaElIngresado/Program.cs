@@ -28,6 +28,7 @@ namespace ConteHastaElIngresado
                 verificacion = VerificacionPositivo(numeroUser);
                 Console.WriteLine(verificacion);
                 
+                
             }
            
             //llamada el contador
