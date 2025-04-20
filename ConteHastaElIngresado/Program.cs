@@ -2,7 +2,6 @@
 
 namespace ConteHastaElIngresado
 {
-    
     internal class Program
     {
         public static void Main(string[] args)
@@ -34,7 +33,6 @@ namespace ConteHastaElIngresado
             //llamada el contador
             BucleContador(numeroUser);
             
-            
             Console.WriteLine("\nPrograma Finalizado. Presiona una tecla para salir...");
             Console.ReadKey();
         }
@@ -55,8 +53,6 @@ namespace ConteHastaElIngresado
                 contador++;
 
             }
-            
-            
         }
     }
 }
